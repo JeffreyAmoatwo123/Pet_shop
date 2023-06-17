@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pic{
+    width: 100px;
+    align-self: left;
+}
+ 
+.cat{
+    align-content: end;
+}
